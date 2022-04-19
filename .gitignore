@@ -1,0 +1,8 @@
+.idea
+*.class
+*.log
+*.iml
+*.swp
+native/
+logs/
+tmp/
